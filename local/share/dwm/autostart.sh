@@ -2,6 +2,7 @@
 volumeicon &
 nm-applet &
 slstatus &
+/usr/bin/dunst &
 picom &
 nitrogen --restore &
 lxpolkit &
